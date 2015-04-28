@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  RecipeCollectionViewCell.m
 //  RecipePhoto
 //
 //  Created by Vincent Renais on 2015-04-27.
 //  Copyright (c) 2015 Vincent Renais. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "RecipeCollectionViewCell.h"
 
-@interface ViewController : UIViewController
-
+@implementation RecipeCollectionViewCell
 
 @end
-

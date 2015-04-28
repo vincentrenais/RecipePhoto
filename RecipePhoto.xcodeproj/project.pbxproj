@@ -15,6 +15,7 @@
 		B787DC331AEF1CA2002760F6 /* RecipePhotoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B787DC321AEF1CA2002760F6 /* RecipePhotoTests.m */; };
 		B787DC3E1AEF1F31002760F6 /* RecipeCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B787DC3D1AEF1F31002760F6 /* RecipeCollectionViewCell.m */; };
 		B787DC411AEF200A002760F6 /* RecipeCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B787DC401AEF200A002760F6 /* RecipeCollectionViewController.m */; };
+		B787DC441AEF2DBB002760F6 /* RecipeCollectionHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = B787DC431AEF2DBB002760F6 /* RecipeCollectionHeaderView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		B787DC3D1AEF1F31002760F6 /* RecipeCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeCollectionViewCell.m; sourceTree = "<group>"; };
 		B787DC3F1AEF200A002760F6 /* RecipeCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeCollectionViewController.h; sourceTree = "<group>"; };
 		B787DC401AEF200A002760F6 /* RecipeCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeCollectionViewController.m; sourceTree = "<group>"; };
+		B787DC421AEF2DBB002760F6 /* RecipeCollectionHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeCollectionHeaderView.h; sourceTree = "<group>"; };
+		B787DC431AEF2DBB002760F6 /* RecipeCollectionHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeCollectionHeaderView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 				B787DC3D1AEF1F31002760F6 /* RecipeCollectionViewCell.m */,
 				B787DC3F1AEF200A002760F6 /* RecipeCollectionViewController.h */,
 				B787DC401AEF200A002760F6 /* RecipeCollectionViewController.m */,
+				B787DC421AEF2DBB002760F6 /* RecipeCollectionHeaderView.h */,
+				B787DC431AEF2DBB002760F6 /* RecipeCollectionHeaderView.m */,
 			);
 			path = RecipePhoto;
 			sourceTree = "<group>";
@@ -227,6 +232,7 @@
 				B787DC411AEF200A002760F6 /* RecipeCollectionViewController.m in Sources */,
 				B787DC1C1AEF1CA2002760F6 /* AppDelegate.m in Sources */,
 				B787DC191AEF1CA2002760F6 /* main.m in Sources */,
+				B787DC441AEF2DBB002760F6 /* RecipeCollectionHeaderView.m in Sources */,
 				B787DC3E1AEF1F31002760F6 /* RecipeCollectionViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
